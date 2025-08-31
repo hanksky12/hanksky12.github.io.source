@@ -1,7 +1,7 @@
 ---
-title: "Process & Thread [一]"
+title: "Process & Thread & Coroutine[一]"
 date: 2024-07-25T21:27:34+08:00
-tags: ["知識", "process","thread",'python','Coroutines']
+tags: ["知識", "process","thread",'python','coroutine']
 categories: ["程式"]
 series: ["計算機基礎"]
 draft: false

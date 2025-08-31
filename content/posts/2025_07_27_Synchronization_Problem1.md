@@ -1,7 +1,7 @@
 ---
-title: "Process & Thread [三] Coroutines"
+title: "Synchronization Problem [ㄧ] Lock"
 date: 2025-07-27T10:23:51+08:00
-tags: ["知識", "process","thread",'python','Coroutines','go']
+tags: ["知識", "process","thread",'coroutine','python','synchronization','go']
 categories: ["程式"]
 series: ["計算機基礎"]
 draft: false
